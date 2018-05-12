@@ -1,0 +1,27 @@
+_repo: History-of-the-Thirty-Ninth-Congress-of-the-United-States_24596
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnes, William Horatio
+    alias: Barnes, W. H. (William Horatio)
+    gutenberg_agent_id: '26607'
+    url: http://www.gutenberg.org/2009/agents/26607
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. 39th Congress, 1865-1867'
+- !lcsh 'United States -- Politics and government -- 1865-1869'
+- !lcc 'E660'
+title: History of the Thirty-Ninth Congress of the United States
+url: http://www.gutenberg.org/ebooks/24596
